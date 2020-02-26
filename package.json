@@ -1,0 +1,24 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reactangle.js",
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "grunt-eslint": "^22.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaokuangkuang/grunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaokuangkuang/grunt/issues"
+  },
+  "homepage": "https://github.com/shaokuangkuang/grunt#readme"
+}
